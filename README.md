@@ -8,7 +8,7 @@ https://www.datainwater.com/post/sonar_numpy/
 Please note the application may contain bugs, and is simply for educational purposes.
 
 Using the file application:
-  -  files gui.py and reader.py into a IDE that supports Python3
+  -  load the files gui.py and reader.py into a IDE that supports Python3
   -  run gui.py and wait for the window to appear
   -  click file>open SL file
   -  The file will load in and allow visualisation and further manipulation
